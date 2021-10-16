@@ -51,7 +51,5 @@ int main() {
     coins.push_back(2);
     coins.push_back(5);
     cout<<CoinChangeII(amount, coins)<<endl;
-
-
     return 0;
 }

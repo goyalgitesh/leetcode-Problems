@@ -19,12 +19,10 @@ struct TreeNode {
 
 
  int t2sum(TreeNode* A, int B) {
-
-
-
-
     return 0;
  }
+
+ 
 
 
  int main() {
